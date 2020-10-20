@@ -35,7 +35,7 @@ async def shops(ctx):
     await ctx.send(embed=embed)
 
 #                ↘insert your bot token here
-client.run('NzUwNDAyOTYyMjQ0ODk0ODMw.X06BOA.amdyFnRmHy5oDFrHy27sUrlT5Hw')
+client.run('token')
 
 
 #HOW TO EMEBED
